@@ -16,9 +16,16 @@ Our primary goal is to create a user-friendly platform for purchasing extra virg
 
 - **Integration with PayPal**: We have implemented PayPal integration to allow customers to make quick and secure payments.
 
-## Contact
+- **Barcode Scanning with `flutter_barcodescanner`**: We have integrated the `flutter_barcodescanner` library to scan labels on olive oil bottles, providing detailed product information and enhancing the shopping experience.
 
-For more information or questions about the Olioevo project, you can contact the development team at [team@olioevo.com](mailto:team@olioevo.com).
+## Running the Application
 
-Thank you for your interest in the Olioevo project!
+To run the Olioevo Flutter application, follow these steps:
+
+1. **Install Flutter**: Make sure you have Flutter installed on your system. You can download and install it from the official Flutter website: [Flutter Installation](https://flutter.dev/docs/get-started/install).
+
+2. **Verify Installation**: After installation, verify that Flutter is properly installed by running the following command in your terminal:
+
+   ```bash
+   flutter doctor
 
