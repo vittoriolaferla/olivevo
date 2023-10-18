@@ -12,7 +12,7 @@ Our primary goal is to create a user-friendly platform for purchasing extra virg
 
 - **Dialogflow for Virtual Assistance**: We use Dialogflow to provide virtual assistance to our customers. Our chatbots help answer customer queries and provide detailed product information.
 
-- **WooCommerce Database**: We utilize WooCommerce to manage inventory and transactions, making it easy to manage our product catalog and ensure secure and reliable transactions.
+- **Custom API for WooCommerce Database**: We have developed a custom API to retrieve data from the WooCommerce database, ensuring efficient management of our product catalog and facilitating secure and reliable transactions.
 
 - **Integration with PayPal**: We have implemented PayPal integration to allow customers to make quick and secure payments.
 
