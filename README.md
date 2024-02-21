@@ -1,6 +1,9 @@
 # Olioevo - Extra Virgin Olive Oil E-commerce Platform
 
-Welcome to Olioevo, the e-commerce platform dedicated to extra virgin olive oil, inspired by Vivino. Our project is developed using the Flutter framework and leverages a range of advanced services and technologies to offer an innovative solution in the world of olive oil.
+This repository houses Olioevo, a Flutter-based application designed to bridge the gap between retailers across Italy and a dedicated e-commerce platform for olive oil. Drawing inspiration from Vivino's approach to wine exploration, Olioevo aims to enlighten customers about the vast array of choices available in the olive oil market. Developed as part of the Multidisciplinary Project exam, this app embodies the synthesis of technology and tradition, striving to offer a comprehensive and informative platform for olive oil enthusiasts and newcomers alike.
+
+## Teaching responsible: Paolo Cremonesi
+## Evaluation: 30/30 cum laude
 
 ## Project Overview
 
@@ -8,15 +11,17 @@ Our primary goal is to create a user-friendly platform for purchasing extra virg
 
 ### Key Project Features
 
-- **Intuitive E-commerce Platform**: Olioevo provides a seamless and intuitive shopping experience. Customers can explore a wide selection of high-quality extra virgin olive oils from various producers.
+- **Flutter Framework**: The backbone of Olioevo, providing a cross-platform foundation that ensures a smooth, responsive user interface across all devices.
 
-- **Dialogflow for Virtual Assistance**: We use Dialogflow to provide virtual assistance to our customers. Our chatbots help answer customer queries and provide detailed product information.
+- **Dialogflow Integration for AI-Powered Assistance**: Leveraging Google's Dialogflow, Olioevo offers real-time, conversational AI support. Our virtual assistants guide users through the product selection process, answer queries, and enhance overall customer service.
 
-- **Custom API for WooCommerce Database**: We have developed a custom API to retrieve data from the WooCommerce database, ensuring efficient management of our product catalog and facilitating secure and reliable transactions.
+- **Custom API for WooCommerce Integration**: To streamline product management and e-commerce operations, we've developed a custom API that interfaces with WooCommerce. This setup not only enriches our product catalog but also secures transaction processes, making shopping reliable and hassle-free.
 
-- **Integration with PayPal**: We have implemented PayPal integration to allow customers to make quick and secure payments.
+- **PayPal for Secure Payments**: Recognizing the importance of secure and convenient payment methods, Olioevo integrates PayPal, enabling swift, safe transactions for customers worldwide.
 
-- **Barcode Scanning with `flutter_barcodescanner`**: We have integrated the `flutter_barcodescanner` library to scan labels on olive oil bottles, providing detailed product information and enhancing the shopping experience.
+- **Enhanced Product Interaction through flutter_barcodescanner**: By incorporating the flutter_barcodescanner library, we've added a layer of interactivity to the shopping experience. Customers can scan olive oil bottle labels for instant access to detailed product insights, fostering an informed purchasing decision.
+
+
 
 ## Running the Application
 
