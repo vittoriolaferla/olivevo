@@ -1,4 +1,4 @@
-# Olioevo - Extra Virgin Olive Oil E-commerce Platform
+# Olivevo - Extra Virgin Olive Oil E-commerce Platform
 
 This repository houses Olioevo, a Flutter-based application designed to bridge the gap between retailers across Italy and a dedicated e-commerce platform for olive oil. Drawing inspiration from Vivino's approach to wine exploration, Olioevo aims to enlighten customers about the vast array of choices available in the olive oil market. Developed as part of the Multidisciplinary Project exam, this app embodies the synthesis of technology and tradition, striving to offer a comprehensive and informative platform for olive oil enthusiasts and newcomers alike.
 
