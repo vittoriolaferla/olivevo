@@ -31,18 +31,14 @@ First, clone this repository to your local machine:
 
 ```shell
 git clone https://github.com/vittoriolaferla/olivevo
-cd yourflutterproject
 ```
-### Install Dependencies
+### Install Dependencies and run the application
 
 Navigate to the root of the project and run the following command to install the necessary dependencies:
 
 ```shell
-flutter pub get
-```
-### Run the application
-```shell
 cd olivevo
+flutter pub get
 flutter run
 ```
 
