@@ -7,7 +7,7 @@ This repository houses Olioevo, a Flutter-based application designed to bridge t
 **Final Score**: 30/30 cum laude
 
 
-### Key Project Features
+## Key Project Features
 
 - **Consistent App and Website Integration**: We developed an app in alignment with the website to handle concurrent requests and established rules for synchronizing the database, ensuring a cohesive and reliable user experience across platforms. This feature is critical for maintaining data integrity and providing real-time updates to our users, regardless of how they access Olioevo.
 
@@ -33,14 +33,14 @@ First, clone this repository to your local machine:
 git clone https://github.com/vittoriolaferla/olivevo
 cd yourflutterproject
 ```
-## Install Dependencies
+### Install Dependencies
 
 Navigate to the root of the project and run the following command to install the necessary dependencies:
 
 ```shell
 flutter pub get
 ```
-## Run the application
+### Run the application
 ```shell
 cd olivevo
 flutter run
