@@ -34,7 +34,7 @@ git clone https://github.com/vittoriolaferla/olivevo
 ```
 ### Install Dependencies and run the application
 
-Navigate to the root of the project and run the following command to install the necessary dependencies:
+Navigate to the root of the project and run the following commands:
 
 ```shell
 cd olivevo
