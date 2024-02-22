@@ -19,6 +19,31 @@ This repository houses Olioevo, a Flutter-based application designed to bridge t
 
 - **Enhanced Product Interaction through "flutter_barcodescanner"**: By incorporating the "flutter_barcodescanner" library, we've added a layer of interactivity to the shopping experience. Customers can scan olive oil bottle labels for instant access to detailed product insights, fostering an informed purchasing decision.
 
+# Run the App
+Before you begin, ensure you have:
+- Flutter SDK
+- Android SDK or iOS SDK (depending on your target platform)
+- An IDE (VS Code, Android Studio, or IntelliJ IDEA) with Flutter plugin installed
 
+### Clone the Repository
+
+First, clone this repository to your local machine:
+
+```shell
+git clone https://github.com/vittoriolaferla/olivevo
+cd yourflutterproject
+```
+## Install Dependencies
+
+Navigate to the root of the project and run the following command to install the necessary dependencies:
+
+```shell
+flutter pub get
+```
+## Run the application
+```shell
+cd olivevo
+flutter run
+```
 
 
